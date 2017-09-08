@@ -1,2 +1,3 @@
-# tarea-1-mandujanozevallos
-tarea-1-mandujanozevallos created by GitHub Classroom
+# Tarea 1
+Integrantes
+Nombres
