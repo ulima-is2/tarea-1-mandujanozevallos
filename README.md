@@ -1,4 +1,4 @@
-# Tarea 1 Ingeniería de Software II
+# Tarea 1 - Ingeniería de Software II
 ## Integrantes
 
 | Nombres  | Código | Usuario de GitHub |
