@@ -9,10 +9,10 @@
 ## Instrucciones
 Cada pregunta se encuentra separada en formato pdf.
 
-Pregunta 1: archivo Pregunta1.pdf
+Pregunta 1 (Historias de Usuario - Connextra - Gherkin): archivo Pregunta1.pdf
 
-Pregunta 2: archivo Pregunta2.pdf
+Pregunta 2 (Modelo Dominio): archivo Pregunta2.pdf
 
-Pregunta 3: archivo Pregunta3.pdf
+Pregunta 3 (Diagrama de Caso de Uso - Especificación): archivo Pregunta3.pdf
 
-Pregunta 4: archivo Pregunta4.pdf
+Pregunta 4 (Diagramas de Robustez): archivo Pregunta4.pdf
