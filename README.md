@@ -9,10 +9,10 @@
 ## Instrucciones
 Cada pregunta esta en formato pdf.
 
-Pregunta 1: nombre
+Pregunta 1: archivo Pregunta1.pdf
 
-Pregunta 2: nombre
+Pregunta 2: archivo Pregunta2.pdf
 
-Pregunta 3: nombre
+Pregunta 3: archivo Pregunta3.pdf
 
-Pregunta 4: nombre
+Pregunta 4: archivo Pregunta4.pdf
