@@ -7,7 +7,7 @@
 | Jesús Ernesto Zevallos Reyna  | 20081939  | Breusio |
 
 ## Instrucciones
-Cada pregunta esta en formato pdf.
+Cada pregunta se encuentra separada en formato pdf.
 
 Pregunta 1: archivo Pregunta1.pdf
 
