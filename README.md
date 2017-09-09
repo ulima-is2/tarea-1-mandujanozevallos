@@ -9,7 +9,7 @@
 ## Instrucciones
 Cada pregunta esta en formato pdf.
 
-Pregunta 1: #archivo Pregunta1.pdf
+Pregunta 1: archivo Pregunta1.pdf
 
 Pregunta 2: archivo Pregunta2.pdf
 
